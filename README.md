@@ -23,10 +23,4 @@ This site showcases my skills and experience as an **IT Support Specialist**, wi
 
 ---
 
-## 🌐 Live Website
-
-You can view the live portfolio here: [https://seldeg.github.io](https://seldeg.github.io)
-
----
-
 Thank you for visiting!
