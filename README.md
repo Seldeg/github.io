@@ -1,5 +1,3 @@
-"""# My IT Portfolio
-
 👋 Welcome to my professional IT portfolio website.
 
 This site showcases my skills and experience as an **IT Support Specialist**, with hands-on knowledge in areas like:
@@ -22,14 +20,3 @@ This site showcases my skills and experience as an **IT Support Specialist**, wi
 - ✅ Sophos Firewall VPN & VLAN Setup
 - ✅ MDT Deployment Server Configuration
 """
-
-# Write updated README to existing seldeg portfolio folder
-updated_readme_path = "/mnt/data/seldeg_portfolio/README.md"
-with open(updated_readme_path, "w") as f:
-    f.write(updated_readme)
-
-# Create a new ZIP archive with the updated README
-updated_zip_path = "/mnt/data/seldeg_portfolio_updated.zip"
-shutil.make_archive(updated_zip_path.replace(".zip", ""), 'zip', "/mnt/data/seldeg_portfolio")
-
-updated_zip_path
