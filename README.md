@@ -1,4 +1,4 @@
-updated_readme = """# My IT Portfolio
+"""# My IT Portfolio
 
 👋 Welcome to my professional IT portfolio website.
 
@@ -33,4 +33,3 @@ updated_zip_path = "/mnt/data/seldeg_portfolio_updated.zip"
 shutil.make_archive(updated_zip_path.replace(".zip", ""), 'zip', "/mnt/data/seldeg_portfolio")
 
 updated_zip_path
-
