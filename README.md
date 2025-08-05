@@ -1,4 +1,3 @@
-# Update README.md with the new content provided by the user
 updated_readme = """# My IT Portfolio
 
 👋 Welcome to my professional IT portfolio website.
